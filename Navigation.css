@@ -1,0 +1,19 @@
+.nav
+{
+background-color:rgb(148, 12, 245) ;
+padding:20px;
+}
+.navbar-list
+{
+    justify-content: space-around;
+    list-style: auto;
+    display:flex;
+}
+
+.nav-link
+{
+    text-decoration:dashed ;
+    color: black;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
